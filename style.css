@@ -1,0 +1,55 @@
+body{
+	background:#efebe8 url(images/backgrounds/symphony.png) repeat 0 0;	
+	font-family: 'Open Sans', sans-serif;
+}
+header {
+    background-color: rgba(175,66,123,0.7) ;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+    font-size: 22px;
+    padding:5px 55px;
+    display: flex;
+}
+.nav li a {
+    color:rgba(4,246,246,1);
+}
+.nav li a:hover{
+
+}
+.content{
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px;
+} 
+h1{
+	padding: 1px; 
+	display: inline;
+
+}
+.img-circle{
+    display: inline-block;
+}
+.logo-text{
+	background: url(images/images/cupcakes-pink.jpg);
+	height:280px;
+}
+.img{
+    height: 280px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer {
+    background-color: rgba(175,66,123,0.7) ;
+    width: 100%;
+    padding: 5px;
+    font-weight: bold;
+    color:rgba(4,246,246,1);
+}
+
+.module-mailing-list{
+    float: right;
+}
+
+
